@@ -91,7 +91,10 @@ python etl/etl_pipeline.py
 ## ☁️ Azure Blob Storage Output
 Transformed file uploaded to: `etl-output/transformed_orders.csv`
 
-![Azure Blob Output](<img width="790" height="356" alt="image" src="https://github.com/user-attachments/assets/41f04bcd-aeb1-4244-bed7-5fc57255842a" />)
+![Azure Blob Output]
+
+<img width="797" height="390" alt="image" src="https://github.com/user-attachments/assets/e280d0f4-bddd-4156-8a21-15b536191905" />
+
 
 
 
